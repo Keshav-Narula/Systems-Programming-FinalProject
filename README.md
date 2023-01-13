@@ -18,9 +18,11 @@ List of Files:
 	defs.h , ghost.c , building.c , room.c , hunter.c , evidence.c , main.c , Makefile
 
 Instructions for Compilation terminal:
+	
 	make run
 
 	make clean (removes object files)
 
 Instructions for Launching in terminal:
+	
 	./run
