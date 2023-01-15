@@ -1,7 +1,7 @@
 Author: Keshav Narula
 
 # Systems-Programming-FinalProject
-Multi-Threaded System for a Ghost Hunt Simulation Game.
+Multi-Threaded C program for a Ghost Hunt Simulation Game.
 
 Program Description:
 
