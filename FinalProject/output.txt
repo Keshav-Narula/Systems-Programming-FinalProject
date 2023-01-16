@@ -1,0 +1,112 @@
+GHOST SPAWNED IN Right Storage Room
+MOVEMENT - The GHOST has moved to the Basement Hallway
+MOVEMENT - The GHOST has moved to the Left Storage Room
+The GHOST has left STANDARD TEMPERATURE evidence in the Left Storage Room
+The GHOST has left STANDARD TEMPERATURE evidence in the Left Storage Room
+The GHOST has left STANDARD EMF evidence in the Left Storage Room
+The GHOST has left GHOSTLY TEMPERATURE evidence in the Left Storage Room
+The GHOST has left GHOSTLY TEMPERATURE evidence in the Left Storage Room
+The GHOST has left GHOSTLY TEMPERATURE evidence in the Left Storage Room
+MOVEMENT - The GHOST has moved to the Basement Hallway
+The GHOST got bored and left
+Blue has collected some RANDOM TEMPERATURE evidence in the Van
+MOVEMENT - Blue has moved to the Hallway
+Blue has collected some RANDOM TEMPERATURE evidence in the Hallway
+MOVEMENT - Blue has moved to the Van
+Blue has collected some RANDOM TEMPERATURE evidence in the Van
+Blue has collected some RANDOM TEMPERATURE evidence in the Van
+Blue has collected some RANDOM TEMPERATURE evidence in the Van
+Blue has collected some RANDOM TEMPERATURE evidence in the Van
+MOVEMENT - Blue has moved to the Hallway
+MOVEMENT - Blue has moved to the Boy's Bedroom
+Blue has collected some RANDOM TEMPERATURE evidence in the Boy's Bedroom
+MOVEMENT - Blue has moved to the Hallway
+Blue has collected some RANDOM TEMPERATURE evidence in the Hallway
+Blue has collected some RANDOM TEMPERATURE evidence in the Hallway
+Blue has collected some RANDOM TEMPERATURE evidence in the Hallway
+Blue has collected some RANDOM TEMPERATURE evidence in the Hallway
+Blue has collected some RANDOM TEMPERATURE evidence in the Hallway
+Blue has collected some RANDOM TEMPERATURE evidence in the Hallway
+Blue has collected some RANDOM TEMPERATURE evidence in the Hallway
+Blue has collected some RANDOM TEMPERATURE evidence in the Hallway
+The hunter Blue got bored and left 
+Red has collected some RANDOM SOUND evidence in the Van
+MOVEMENT - Red has moved to the Hallway
+Red has collected some RANDOM SOUND evidence in the Hallway
+MOVEMENT - Red has moved to the Boy's Bedroom
+Red has collected some RANDOM SOUND evidence in the Boy's Bedroom
+MOVEMENT - Red has moved to the Hallway
+MOVEMENT - Red has moved to the Kitchen
+MOVEMENT - Red has moved to the Hallway
+MOVEMENT - Red has moved to the Master Bedroom
+MOVEMENT - Red has moved to the Hallway
+Red has collected some RANDOM SOUND evidence in the Hallway
+MOVEMENT - Red has moved to the Basement
+Red has collected some RANDOM SOUND evidence in the Basement
+MOVEMENT - Red has moved to the Hallway
+Red has collected some RANDOM SOUND evidence in the Hallway
+Red has collected some RANDOM SOUND evidence in the Hallway
+MOVEMENT - Red has moved to the Master Bedroom
+MOVEMENT - Red has moved to the Hallway
+MOVEMENT - Red has moved to the Bathroom
+Red has collected some RANDOM SOUND evidence in the Bathroom
+The hunter Red got bored and left 
+Green has collected some RANDOM EMF evidence in the Van
+MOVEMENT - Green has moved to the Hallway
+Green has collected some RANDOM EMF evidence in the Hallway
+Green has collected some RANDOM EMF evidence in the Hallway
+Green has collected some RANDOM EMF evidence in the Hallway
+Green has collected some RANDOM EMF evidence in the Hallway
+Green has collected some RANDOM EMF evidence in the Hallway
+Green has collected some RANDOM EMF evidence in the Hallway
+MOVEMENT - Green has moved to the Bathroom
+MOVEMENT - Green has moved to the Hallway
+MOVEMENT - Green has moved to the Kitchen
+MOVEMENT - Green has moved to the Hallway
+Green has collected some RANDOM EMF evidence in the Hallway
+Green has collected some RANDOM EMF evidence in the Hallway
+Green has collected some RANDOM EMF evidence in the Hallway
+Green has collected some RANDOM EMF evidence in the Hallway
+MOVEMENT - Green has moved to the Van
+MOVEMENT - Green has moved to the Hallway
+Green has collected some RANDOM EMF evidence in the Hallway
+Green has collected some RANDOM EMF evidence in the Hallway
+The hunter Green got bored and left 
+Yellow has collected some RANDOM FINGERPRINTS evidence in the Van
+MOVEMENT - Yellow has moved to the Hallway
+MOVEMENT - Yellow has moved to the Kitchen
+MOVEMENT - Yellow has moved to the Hallway
+Yellow has collected some RANDOM FINGERPRINTS evidence in the Hallway
+MOVEMENT - Yellow has moved to the Kitchen
+MOVEMENT - Yellow has moved to the Hallway
+MOVEMENT - Yellow has moved to the Kitchen
+Yellow has collected some RANDOM FINGERPRINTS evidence in the Kitchen
+MOVEMENT - Yellow has moved to the Garage
+MOVEMENT - Yellow has moved to the Kitchen
+MOVEMENT - Yellow has moved to the Hallway
+Yellow has collected some RANDOM FINGERPRINTS evidence in the Hallway
+MOVEMENT - Yellow has moved to the Bathroom
+MOVEMENT - Yellow has moved to the Hallway
+MOVEMENT - Yellow has moved to the Boy's Bedroom
+Yellow has collected some RANDOM FINGERPRINTS evidence in the Boy's Bedroom
+Yellow has collected some RANDOM FINGERPRINTS evidence in the Boy's Bedroom
+Yellow has collected some RANDOM FINGERPRINTS evidence in the Boy's Bedroom
+Yellow has collected some RANDOM FINGERPRINTS evidence in the Boy's Bedroom
+The hunter Yellow got bored and left 
+
+     SIMULATION FINAL RESULTS
+
+The hunter Green got bored and left 
+Green - HUNTER STATS: BOREDOMCOUNTER - 0 , FEAR - 0
+
+The hunter Blue got bored and left 
+Blue - HUNTER STATS: BOREDOMCOUNTER - 0 , FEAR - 0
+
+The hunter Yellow got bored and left 
+Yellow - HUNTER STATS: BOREDOMCOUNTER - 0 , FEAR - 0
+
+The hunter Red got bored and left 
+Red - HUNTER STATS: BOREDOMCOUNTER - 0 , FEAR - 0
+
+
+THE GHOST WON!
