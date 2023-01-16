@@ -18,6 +18,8 @@ A hunter is an entity that moves between rooms, reads the room for evidence, and
 
 <img src="Example Output Images/Screenshot 2023-01-16 104758.png" width ="600">
 
+<img src="Example Output Images/Screenshot 2023-01-16 104820.png" width ="600">
+
 
 
 Data Structures, Game Map, Basic Control Flow are specified in pdf spec.
