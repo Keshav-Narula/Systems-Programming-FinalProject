@@ -14,6 +14,10 @@ Additional Functionality
   + Smarter behaviour for Hunters
   + Evidence is dynamically allocated, no duplicates. Stored using pointers in one or multiple EvidenceLinkedLists. Including master list of evidence stored in       	  Building strucutre
   + Simulation output printed to text file output.txt
+ 
+Game Map:
+
+<img src="Example Output Images/Screenshot 2023-01-16 021526.png" width="500" >
 
 List of Files:
 	defs.h , ghost.c , building.c , room.c , hunter.c , evidence.c , main.c , Makefile
@@ -27,3 +31,11 @@ Instructions for Compilation terminal:
 Instructions for Launching in terminal:
 	
 	./run
+	
+Example Terminal Output (MAX_FEAR & MAX_BOREDOM set to 25):
+
+<img src="Example Output Images/01.png" width="700" >
+<img src="Example Output Images/02.png" width="700" >
+<img src="Example Output Images/03.png" width="700" >
+
+
