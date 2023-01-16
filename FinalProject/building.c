@@ -2,22 +2,6 @@
 #include "defs.h"
 
 /*
-    Note: While this function is provided, you will likely want
-    to modify it to suit your solution. This has been provided
-    to give you a starting point to lay out the room connectivity,
-    but it is entirely possible that you will want to use different
-    data structures to represent the rooms and their connectivity,
-    or different function names.
-
-    Not following this function's structure exactly will not result
-    in a deduction of points.
-
-    The map that this is recreating is visible in the assignment
-    specification, and also available by the original creator here:
-    https://steamcommunity.com/sharedfiles/filedetails/?id=2251267947
-
-*/
-/*
   Function: populateRooms(BuildingType* building)
   Purpose:  fills up the master room list of the building than connects the rooms, so that they are in each other's respective
   connectRooms list
