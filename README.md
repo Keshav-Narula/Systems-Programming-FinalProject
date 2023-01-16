@@ -16,6 +16,7 @@ A ghost is an entity that moves between rooms and leaves evidence behind inside 
 
 A hunter is an entity that moves between rooms, reads the room for evidence, and communicates evidence to other hunter in room. They contain a pointer to the room they are currently in, an enumerated type representing the type of evidence their equipment can read (note: there is no equipment type, only the type of evidence they collect), a collection of evidence that they have personally collected, a name, and a fear integer which starts at 0. Hunters choose their action at random. If a hunter is in a room with a ghost when they make their decision, they gain 1 point of fear, specified by a definition in defs.h. If they reach 100 fear, they are removed from the simulation by closing their thread. Hunters can take one of HUNTERS are programmed with smarter behaviour than just random choice, Hunters will always prioritize sharing evidence to other hunters meaning they will first check their current room for other hunters and if that hunter contains some GHOSTLY evidence type that another hunter does not contain it will always share the evidence, no matter what type it is. If they communicate, ghostly evidence data is append the other hunter’s evidence collection. Ignore standard data. A hunters also have a Boredom coutner. Each time they detect ghostly evidence, reset the timer to BORING_MAX. Each time they take an action other than detecting ghostly evidence, decrease the timer by 1. If the timer is <= 0, they exit the thread. If a hunter finds three diferent types of GHOSTLY evidence it can predict the ghost type and exits the thread.
 
+<img src="Example Output Images/Screenshot 2023-01-16 104758.png" width ="600">
 
 
 
@@ -28,7 +29,7 @@ Additional Functionality
  
 Game Map:
 
-<img src="Example Output Images/Screenshot 2023-01-16 021526.png" width="500" >
+<img src="Example Output Images/Screenshot 2023-01-16 021526.png" width="600" >
 
 List of Files:
 	defs.h , ghost.c , building.c , room.c , hunter.c , evidence.c , main.c , Makefile
