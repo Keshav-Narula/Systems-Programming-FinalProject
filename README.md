@@ -20,7 +20,7 @@ A hunter is an entity that moves between rooms, reads the room for evidence, and
 
 <img src="Example Output Images/Screenshot 2023-01-16 104820.png" width ="600">
 
-#Structures
+# Structures
 Evidence is a data type containing the Evidence Class (or Category) and a value for the data of that reading. Evidence can be one of the following categories: EMF, TEMPERATURE, FINGERPRINTS, SOUND. The value for each piece of evidence is selected from the above table. A piece of evidence can have either a Ghost Reading or a Standard Reading; note, these readings are not reflected as fields. Instead, when we
 create evidence, we generate the value for the evidence randomly following the table. Note: If a ghost produces a value that is within the standard results, it can not be used as evidence for confirming that ghost type. Evidence is stored by each hunter, and in each room. Multiple hunters may point to the same data, but once it is found, its pointer is removed from the room's Evidence List it was generated in.
 
