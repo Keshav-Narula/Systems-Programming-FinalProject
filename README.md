@@ -9,6 +9,7 @@ Program using multiple threads for each entity, that simulates a ghost hunt game
 
 
 Data Structures, Game Map, Basic Control Flow are specified in pdf spec.
+Additional Functionality
   + State of Simulation, printed, formatted in terminal
   + Smarter behaviour for Hunters
   + Evidence is dynamically allocated, no duplicates. Stored using pointers in one or multiple EvidenceLinkedLists. Including master list of evidence stored in       	  Building strucutre
