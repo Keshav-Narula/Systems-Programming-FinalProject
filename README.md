@@ -26,7 +26,6 @@ A room represents a room in the building that the hunters are hunting in. A room
 
 A building is used to hold all of the information about the current hunt. It contains the ghost , a collection of all hunters, and a linked list of all rooms. The first room in every building is always the ghost hunter’s vehicle, the Van. Building also contains a master list of all rooms and evidence that has been generated during the simulation either by the ghost or hunters, this allows for neater de allocation of memory during or after the program.
 
-Data Structures, Game Map, Basic Control Flow for the Threads are specified in pdf spec.
 Additional Functionality
   + State of Simulation, printed, formatted in terminal
   + Smarter behaviour for Hunters
