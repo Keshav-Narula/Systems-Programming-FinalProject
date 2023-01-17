@@ -8,9 +8,6 @@ Multi-Threaded C program for a Ghost Hunt Simulation Game.
 Multithreaded program, that simulates a ghost hunt game between 4 hunters and 1 ghost, in a building of connected rooms. The hunters are trying to identify the type of ghost that is present in the building, using to the evidence types the ghost generates while moving around the building. Each hunter can only collect one specific type of evidence, so they must share information in order to idenitfy the type of ghost. If a hunter can collect all three different types of evidence before their fear counter reached the limit, otherwise the ghost wins.
 
 
-Simulation behaviour:
-
-
 # Entities 
 
 A ghost is an entity that moves between rooms and leaves evidence behind inside the range of GHOSTLY evidence (also has a chance to produce standard evidence, which the hunters cannot use to identify the ghost). A starts with a random GhostClass (POLTERGEIST, BANSHEE, BULLIES, or PHANTOM), which is an enumerated data type representing the type of ghost it is, this species what 3 out of 4 evidence types it is able to generate and therefore be identified for. It also contains a pointer to the room that it is in. It also contains a boredom timer - an integer initially set to BOREDOM_MAX. Each time the ghost is in a room with a hunter, it resets the counter to BOREDOM_MAX. Each time the ghost is in a room without a hunter, it decreases the timer variable by 1. If the boredom timer reaches <= 0, it exits the thread. A ghost takes one of three actions: It has a random chance to generate evidence to add to the room, or it will move, or it will take no action. If a ghost is in a room with a hunter, it will not choose to move, but it may choose to take no action. These actions are selected at random.
