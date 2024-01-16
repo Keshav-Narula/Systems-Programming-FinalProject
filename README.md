@@ -3,6 +3,10 @@ Author: Keshav Narula
 # Systems-Programming-FinalProject
 Multi-Threaded C program for a Ghost Hunt Simulation Game.
 
+#DEMO LINK
+To demo project in an online C complier  go to link [HERE](https://replit.com/join/gavzaqukso-narulakeshav1)
+- Open the Shell tab, type 'make run; to compile the program and './run' to start the program.
+
 # Program Description:
 
 Multi-threaded Ghost hunt game simulation between 4 hunters and 1 ghost, in a map of connected rooms. Hunters are attempting to collect collect different types of evidence which the ghost generates a specific in rooms as it roams, each hunter can only identifies one unique kind of evidence, and share missing evidence they collected as they cross paths in rooms. Ghost is attempting to increment each hunter's scare level counter, by being in the same room as the hunter, if level is maxed out that hunter is eliminated and their thread is returned. Game ends when either the with the ghost thread winning by successfully returning causing all the hunter threads to terminate, or the threads are able to collect enough evidence types to identify the type of ghost.
