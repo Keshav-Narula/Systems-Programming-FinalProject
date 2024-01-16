@@ -3,7 +3,7 @@ Author: Keshav Narula
 # Systems-Programming-FinalProject
 Multi-Threaded C program for a Ghost Hunt Simulation Game.
 
-#DEMO LINK
+# DEMO LINK
 To demo project in an online C complier  go to link [HERE](https://replit.com/join/gavzaqukso-narulakeshav1)
 - Open the Shell tab, type 'make run; to compile the program and './run' to start the program.
 
